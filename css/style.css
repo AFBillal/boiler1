@@ -1,0 +1,9 @@
+.bil1{
+	float: left;
+    list-style: outside none none;
+    padding: 12px;
+    text-align: center;
+}
+.fa-apple{
+	background-color: red; padding: 11px; border-radius: 41px; color: aqua;
+}
